@@ -1,0 +1,78 @@
+
+377 : __<!!>__/     Pokemon Battle     \__<!!>__
+377 : BROCK wants to fight! >
+412 : BROCK sent out GEODUDE!
+503 : Go! CRY!
+
+572 : --------[     Move Selection     ]--------
+572 : LV10, HP: 100%,          33/ 33          
+572 : Enemy HP: 100%
+593 : CRY used BONE CLUB!
+684 : It's super effective! >
+705 : Enemy GEODUDE used TACKLE!
+
+777 : --------[     Move Selection     ]--------
+777 : LV10, HP:  87% (- 12%),  29/ 33 (-  4 HP)
+777 : Enemy HP: ~37% (- 63%)
+798 : CRY used BONE CLUB!
+877 : It's super effective! >
+925 : Enemy GEODUDE fainted! >
+975 : BROCK sent out ONIX!
+
+1040 : --------[     Move Selection     ]--------
+1040 : LV10, HP:  87%,          29/ 33          
+1040 : Enemy HP: 100%
+1061 : Enemy ONIX used SCREECH!
+1141 : DEFENSE greatly fell! >
+1158 : CRY used BONE CLUB!
+1236 : It's super effective! >
+
+1241 : --------[     Move Selection     ]--------
+1241 : LV10, HP:  87%,          29/ 33          
+1241 : Enemy HP: ~58% (- 42%)
+1263 : Enemy ONIX used TACKLE!
+1347 : CRY used BONE CLUB!
+1376 : CRY's attack missed! >
+
+1392 : --------[     Move Selection     ]--------
+1392 : LV10, HP:  69% (- 18%),  23/ 33 (-  6 HP)
+1392 : Enemy HP: ~58%
+1417 : Enemy ONIX used SCREECH!
+1498 : DEFENSE greatly fell! >
+1512 : CRY used BONE CLUB!
+1593 : It's super effective! >
+
+1599 : --------[     Move Selection     ]--------
+1599 : LV10, HP:  69%,          23/ 33          
+1599 : Enemy HP: ~18% (- 40%)
+1628 : Enemy ONIX used BIND!
+1718 : CRY can't move! >
+
+1728 : --------[     Move Selection     ]--------
+1728 : LV10, HP:  57% (- 12%),  19/ 33 (-  4 HP)
+1728 : Enemy HP: ~18%
+1753 : Enemy ONIX's attack continues!
+
+1838 : --------[     Move Selection     ]--------
+1838 : LV10, HP:  45% (- 12%),  15/ 33 (-  4 HP)
+1838 : Enemy HP: ~18%
+1865 : Enemy ONIX's attack continues!
+
+1946 : --------[     Move Selection     ]--------
+1946 : LV10, HP:  33% (- 12%),  11/ 33 (-  4 HP)
+1946 : Enemy HP: ~18%
+1964 : Enemy ONIX used BIND!
+1995 : Enemy ONIX's attack missed! >
+2016 : CRY used BONE CLUB!
+2043 : CRY's attack missed! >
+
+2048 : --------[     Move Selection     ]--------
+2048 : LV10, HP:  33%,          11/ 33          
+2048 : Enemy HP: ~18%
+2074 : Enemy ONIX used TACKLE!
+2168 : CRY used BONE CLUB!
+2233 : It's super effective! >
+2263 : Enemy ONIX fainted! >
+2303 : CRY grew to level 11!
+2317 : SCOTT defeated BROCK! >
+2698 : SCOTT got $1188 for winning! >

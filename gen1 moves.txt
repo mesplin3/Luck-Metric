@@ -1,0 +1,165 @@
+absorb	1	1		
+acid	1	1	0.1	defense
+acid_armor	1	0.75		
+agility	1	0.75		
+amnesia	1	0.75		
+aurora_beam	1	1	0.1	attack
+barrage	0.85	0.85		
+barrier	1	0.75		
+bide	1	1		
+bind	0.85	0.85		
+bite	1	1	0.3	flinch
+blizzard	0.9	0.9	0.1	freeze
+body_slam	1	1	0.3	paralysis
+bone_club	0.85	0.85	0.1	flinch
+bonemerang	0.9	0.9		
+bubble	1	1	0.1	speed
+bubble_beam	1	1	0.1	speed
+clamp	0.85	0.85		
+comet_punch	0.85	0.85		
+confuse_ray	1	0.75		
+confusion	1	1	0.1	confused
+constrict	1	1	0.1	speed
+conversion	1	0.75		
+counter	1	1		
+crabhammer	0.85	0.85	1	high_crit
+cut	0.95	0.95		
+defense_curl	1	0.75		
+dig	1	1		
+disable	0.55	0.75		
+dizzy_punch	1	1		
+double_kick	1	1		
+double_slap	0.85	0.85		
+double_team	1	0.75		
+double-edge	1	1		
+dragon_rage	1	1		
+dream_eater	1	1		
+drill_peck	1	1		
+earthquake	1	1		
+egg_bomb	0.75	0.75		
+ember	1	1	0.1	burn
+explosion	1	1		
+fire_blast	0.85	0.85	0.1	burn
+fire_punch	1	1	0.1	burn
+fire_spin	0.85	0.85		
+fissure	0.3	0.3		
+flamethrower	1	1	0.1	burn
+flash	0.7	0.75		
+fly	0.95	0.95		
+focus_energy	1	0.75		
+fury_attack	0.85	0.85		
+fury_swipes	0.8	0.8		
+glare	0.75	0.75		
+growl	1	0.75		
+growth	1	0.75		
+guillotine	0.3	0.3		
+gust	1	1		
+harden	1	0.75		
+haze	1	0.75		
+headbutt	1	1	0.3	flinch
+high_jump_kick	0.9	0.9		
+horn_attack	1	1		
+horn_drill	0.3	0.3		
+hydro_pump	0.8	0.8		
+hyper_beam	0.9	0.9		
+hyper_fang	0.9	0.9	0.1	flinch
+hypnosis	0.6	0.75		
+ice_beam	1	1	0.1	freeze
+ice_punch	1	1	0.1	freeze
+jump_kick	0.95	0.95		
+karate_chop	1	1	1	high_crit
+kinesis	0.8	0.75		
+leech_life	1	1		
+leech_seed	0.9	0.75		
+leer	1	0.75		
+lick	1	1	0.3	paralysis
+light_screen	1	0.75		
+lovely_kiss	0.75	0.75		
+low_kick	0.9	0.9	0.3	flinch
+meditate	1	0.75		
+mega_drain	1	1		
+mega_kick	0.75	0.75		
+mega_punch	0.85	0.85		
+metronome	1	0.75		
+mimic	1	0.75		
+minimize	1	0.75		
+mirror_move	1	0.75		
+mist	1	0.75		
+night_shade	1	1		
+pay_day	1	1		
+peck	1	1		
+petal_dance	1	1		
+pin_missile	0.85	0.85		
+poison_gas	0.55	0.75		
+poison_powder	0.75	0.75		
+poison_sting	1	1	0.3	poison
+pound	1	1		
+psybeam	1	1	0.1	confused
+psychic	1	1	0.3	special
+psywave	0.8	0.8		
+quick_attack	1	1		
+rage	1	1		
+razor_leaf	0.95	0.95	1	high_crit
+razor_wind	0.75	0.75		
+recover	1	0.75		
+reflect	1	0.75		
+rest	1	0.75		
+roar	1	0.75		
+rock_slide	0.9	0.9	0.3	flinch
+rock_throw	0.65	0.65		
+rolling_kick	0.85	0.85	0.3	flinch
+sand_attack	1	0.75		
+scratch	1	1		
+screech	0.85	0.75		
+seismic_toss	1	1		
+self-destruct	1	1		
+sharpen	1	0.75		
+sing	0.55	0.75		
+skull_bash	1	1		
+sky_attack	0.9	0.9		
+slam	0.75	0.75		
+slash	1	1	1	high_crit
+sleep_powder	0.75	0.75		
+sludge	1	1	0.3	poison
+smog	0.7	0.7	0.4	poison
+smokescreen	1	0.75		
+soft-boiled	1	0.75		
+solar_beam	1	1		
+sonic_boom	0.9	0.9		
+spike_cannon	1	1		
+splash	1	0.75		
+spore	1	0.75		
+stomp	1	1	0.3	flinch
+strength	1	1		
+string_shot	0.95	0.75		
+struggle	1	1		
+stun_spore	0.75	0.75		
+submission	0.8	0.8		
+substitute	1	0.75		
+super_fang	0.9	0.9		
+supersonic	0.55	0.75		
+surf	1	1		
+swift	1	1		
+swords_dance	1	0.75		
+tackle	0.95	0.95		
+tail_whip	1	0.75		
+take_down	0.85	0.85		
+teleport	1	0.75		
+thrash	1	1		
+thunder	0.7	0.7	0.1	paralysis
+thunder_punch	1	1	0.1	paralysis
+thunder_shock	1	1	0.1	paralysis
+thunder_wave	1	0.75		
+thunderbolt	1	1	0.1	paralysis
+toxic	0.85	0.75		
+transform	1	0.75		
+tri_attack	1	1		
+twineedle	1	1		
+vice_grip	1	1		
+vine_whip	1	1		
+water_gun	1	1		
+waterfall	1	1		
+whirlwind	0.85	0.75		
+wing_attack	1	1		
+withdraw	1	0.75		
+wrap	0.9	0.9		
